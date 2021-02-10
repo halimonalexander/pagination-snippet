@@ -1,0 +1,17 @@
+{
+  "name": "halimonalexander/pagination-snippet",
+  "description": "Html snippet for displaying pagination",
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/halimonalexander/pagination-snippet",
+  "require": {
+    "php": "^7.2"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "HalimonAlexander\\HtmlSnippets\\": "src/"
+    }
+  }
+}
